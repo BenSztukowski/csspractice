@@ -1,0 +1,28 @@
+section {
+    padding: 5px;
+}
+
+body {
+    color: #343434;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: darkslateblue;
+    color: floralwhite;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+a {
+    color: gold;
+}
+
+a :hover {
+    text-decoration: none;
+}
+
+h2 {
+    margin: 0;
+}
